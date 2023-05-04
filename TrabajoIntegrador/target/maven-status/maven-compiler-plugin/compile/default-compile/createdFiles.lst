@@ -1,0 +1,13 @@
+com\mycompany\trabajointegrador\entidades\Participante.class
+com\mycompany\trabajointegrador\entidades\PronosticoParticipante.class
+com\mycompany\trabajointegrador\util\LeeResultados.class
+com\mycompany\trabajointegrador\entidades\Ronda.class
+com\mycompany\trabajointegrador\entidades\ResultadoEnum.class
+com\mycompany\trabajointegrador\entidades\Partido.class
+com\mycompany\trabajointegrador\entidades\Pronostico.class
+com\mycompany\trabajointegrador\test\Test1.class
+com\mycompany\trabajointegrador\util\LeePronostico.class
+com\mycompany\trabajointegrador\test\Entrega1.class
+com\mycompany\trabajointegrador\TrabajoIntegrador.class
+com\mycompany\trabajointegrador\test\TestInsertDB.class
+com\mycompany\trabajointegrador\entidades\Equipo.class
